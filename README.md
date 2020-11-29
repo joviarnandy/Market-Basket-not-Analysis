@@ -12,7 +12,7 @@ Confidence is defined as the tendency that given product A is purchased, that pr
 
 ## Example
 
- 1. Case 1: A > B
+ ### 1. Case 1: A > B
    - 8 orderid have itemid 7917849
     (31338643584868, 31364354557783, 31368958440199, 31369772179043, 31371954695064, 31375314731607, 31377601474289, 31379328498817)
 
@@ -27,7 +27,7 @@ Confidence is defined as the tendency that given product A is purchased, that pr
 
 
 
-  2. Case 2: A&B > C
+  ### 2. Case 2: A&B > C
    - 7 orderid have itemid 2363580843 and itemid 2002243261
     (31342449702678, 31365563352719, 31366764361012, 31371701813987, 31372163437582, 31373610230585, 31381568386099)
 
@@ -42,7 +42,7 @@ Confidence is defined as the tendency that given product A is purchased, that pr
    
    
    
-  3. Case 3: A > B&C
+  ### 3. Case 3: A > B&C
    - 9 orderid have itemid 1089203645
      (31351735245918, 31367488312991, 31372554805324, 31373458010259, 31373724807962, 31374927925523, 31375318612401, 31375354382289, 31384570619582)
 
